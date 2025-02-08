@@ -25,16 +25,16 @@ Java & Spring Boot 기반의 3년차 백엔드 서버 개발자이자, Javascrip
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
 
-## 📌 주요 프로젝트
+### 📌 주요 프로젝트
 
-### 📁 [accountBook](https://github.com/SeungHeeNoh/accountBook)
+#### 📁 [accountBook](https://github.com/SeungHeeNoh/accountBook)
 - **설명:** 가계부를 작성할 수 있는 가계부 API 프로젝트
 ---
 
-### 📁 [designPattern](https://github.com/SeungHeeNoh/designPattern)
+#### 📁 [designPattern](https://github.com/SeungHeeNoh/designPattern)
 - **설명:** design pattern 공부 후 직접 구현해 본 프로젝트
 ---
 
-### 📁 [study_well](https://github.com/SeungHeeNoh/study_well)
+#### 📁 [study_well](https://github.com/SeungHeeNoh/study_well)
 - **설명:** 팀 내 git study를 위해 작성한 PPT배포 repository
 ---
